@@ -1,2 +1,2 @@
-# project02
+# Proyecto 02
 Mi primer respositorio en GitHub
